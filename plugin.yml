@@ -1,0 +1,10 @@
+name: MyMachines
+main: me.xxastaspastaxx.mymachines.Main
+author: xXastaspastaXx
+description: Build machines to help you playing.
+version: 1.0.0 Beta
+commands:
+   mymachines:
+      description: Why are you reading this?
+      usage: /<command>
+      aliases: [mm, mym, mymach, mmach, mma]
